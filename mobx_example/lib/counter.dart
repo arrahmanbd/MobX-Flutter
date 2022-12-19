@@ -16,7 +16,7 @@ abstract class Counter with Store {
 ///////////////////////////////////////////////////
 ///                                             ///
 ///run this command to generate                 ///
-///flutter package pub run build_runner build   ///
+///flutter packages pub run build_runner build   ///
 ///                                             ///
 ///////////////////////////////////////////////////
 ///dev packages                                 ///
