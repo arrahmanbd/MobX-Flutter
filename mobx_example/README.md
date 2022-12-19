@@ -1,4 +1,4 @@
-# mobx_example
+# mobx_counter_app example
 
 A new Flutter project.
 
